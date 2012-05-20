@@ -68,6 +68,7 @@ tags: []
 *   如果你想参考其他利用jekyll搭建的网站，可以参考[Site List][11]。
 *   如果你想了解下markdown，可以参考下[markdown语法说明][12]。
 *   如果你想在mac下找一款除了VIM其他的支持markdown语法的文本编辑器，你可以试试[Mou][13]。
+*   如果你想把以前的blog迁移过来，可以参考[blog migrations][15]。
 *   更多的关于jekyll的使用和介绍，可以参考[start blogging][14]。
 		
 
@@ -85,3 +86,4 @@ tags: []
 [12]: http://markdown.tw/#philosophy "markdown语法说明"
 [13]: http://mouapp.com/ 
 [14]: http://jekyllbootstrap.com/usage/index.html "jekyll入门介绍"
+[15]: https://github.com/mojombo/jekyll/wiki/Blog-Migrations "关于blog的迁移"
