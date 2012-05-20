@@ -11,8 +11,8 @@ pygments: true
 #
 title : 爱琴海的水手
 tagline: just test
-author :
-  name : kingauthur
+author : kingauthur	
+  name : yixin.chi
   email : kingauthur218@gmail.com
   github : kingauthur
   twitter : username
@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : kingauthur
     livefyre :
       site_id : 123
     intensedebate :

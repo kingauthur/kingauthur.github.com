@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello jekyll"
-description: "jekyll,markdown,git,github,入门，教程"
+description: "本文介绍基于jekyll+markdown+git+github快速搭建blog的入门方法，以及自己对此的一些认识和相关资料的官方文档"
 category: 
 tags: []
 ---
@@ -40,7 +40,7 @@ tags: []
 打开`configure.log`文件后，说是`C compiler cannot create executables`，在网上搜了下，应该目前xcode下带的gcc版本和安装ruby所需的gcc版本不一致，所以就自己去网上找了单独的mac下的gcc，叫[*osx-gcc-installer*][6]，可以自行去下载。下载完安装后就可以安装jekyll了。
 
 2. 安装Jekyll-Bootstrap：  
-	 有些人可能会问，这个又是什么东西？捎带下概念，Jekyll不是一个blog系统，只是一个解析器，说的简单点，就是将*.md*,*.textfile*这些文本格式解析成*.html*格式的解析器，而Jekyll-Bootstrap是一套使用Jekyll的快速建站工具。具体的可以看下[Jekyll Introduction][7]。  
+	 有些人可能会问，这个又是什么东西？捎带下概念，Jekyll不是一个blog系统，只是一个模版解析引擎，说的简单点，就是将*.md*,*.textfile*这些文本格式解析成*.html*格式的解析器，而Jekyll-Bootstrap是一套使用Jekyll的快速建站工具。具体的可以看下[Jekyll Introduction][7]。  
 	 言归正传，安装命令如下：
 	 
 		$ git clone https://github.com/plusjade/jekyll-bootstrap.git  your's filename
@@ -62,15 +62,26 @@ tags: []
 		$ git push origin master
 这样就可以通过*USERNAME*.github.com访问了。
 
- 
-
+3. 其他相关的资料。  
+*   如果你选择托管在github上，但是想绑定自己的域名，那么请参考[GitHub Pages][9]。
+*   如果你想部署到自己的VPS,也很方便，可以参考[Deployment][10]。
+*   如果你想参考其他利用jekyll搭建的网站，可以参考[Site List][11]。
+*   如果你想了解下markdown，可以参考下[markdown语法说明][12]。
+*   如果你想在mac下找一款除了VIM其他的支持markdown语法的文本编辑器，你可以试试[Mou][13]。
+*   更多的关于jekyll的使用和介绍，可以参考[start blogging][14]。
 		
 
 [1]: http://jekyllrb.com/ "jekyll官网"
-[2]: 
-[3]: 
-[4]: a
+[2]: https://github.com/ "github官网"
+[3]: http://daringfireball.net/projects/markdown/ "markdown参考"
+[4]: https://github.com/mojombo/jekyll/wiki/Install "jekyll官网安装文档"
 [5]: https://rvm.io/ "rvm官网"
 [6]: https://github.com/kennethreitz/osx-gcc-installer/downloads
 [7]: http://jekyllbootstrap.com/lessons/jekyll-introduction.html "Jekyll的官网说明"
 [8]: https://github.com/ "Github官网"
+[9]: http://help.github.com/pages/ "jekyll,如何绑定自己的域名"
+[10]: https://github.com/mojombo/jekyll/wiki/Deployment "jekyll,自定义部署"
+[11]: https://github.com/mojombo/jekyll/wiki/Sites "jekyll,实例网站"
+[12]: http://markdown.tw/#philosophy "markdown语法说明"
+[13]: http://mouapp.com/ 
+[14]: http://jekyllbootstrap.com/usage/index.html "jekyll入门介绍"
