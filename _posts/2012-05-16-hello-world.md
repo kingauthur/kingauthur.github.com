@@ -7,7 +7,6 @@ tags: []
 ---
 {% include JB/setup %}
 
-这只是一个示例
--------------
+Hello world
 
-内容在这里
+
