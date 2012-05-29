@@ -1,0 +1,39 @@
+/* 自定义样式 */
+/* 头像 */
+#avatar {
+	width: 130.5px;
+	float: right;
+	margin-right: 15px;
+}
+/* 目录 */
+#category {
+	clear: right;
+}
+
+/* 目录中日期、标题、描述的样式 */
+.date {
+	font-size: 1.1em;
+}
+.title{
+	font-size: 1.1em;
+	font-weight: bold;
+	position: relative;
+	left: 20px;
+}
+.desc{
+	font-size: 0.9em;
+}
+
+/* about页面的图像 */
+#icon{
+	position: relative;
+	left: -40px;
+}
+#about {
+	width: 300px;
+	float: right;
+	margin-top: 70px;
+}
+
+
+
