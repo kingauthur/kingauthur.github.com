@@ -8,6 +8,35 @@
 <!-- 标题 -->
 <h1 class="emphnext">{{ page.title }}</h1>
 
+
+<!-- JiaThis Button BEGIN -->
+<div id="ckepop">
+<a class="jiathis_button_qzone"></a>
+<a class="jiathis_button_tsina"></a>
+<a class="jiathis_button_tqq"></a>
+<a class="jiathis_button_renren"></a>
+<a class="jiathis_button_googleplus"></a>
+<a class="jiathis_button_douban"></a>
+<a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank"></a>
+</div>
+<!-- JiaThis Button END -->
+
+
+
+
+
+
+
 {{ content }}
 
 </div><!-- End Page -->
+
+<!-- 这里是JiaThis的js,放在这里是为了提高页面加载速度 -->
+<script type="text/javascript" >
+var jiathis_config={
+	summary:"",
+	hideMore:true
+}
+</script>
+<script type="text/javascript" src="http://v2.jiathis.com/code/jia.js" charset="utf-8"></script>
+

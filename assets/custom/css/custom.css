@@ -34,6 +34,31 @@
 	float: right;
 	margin-top: 70px;
 }
+/* 首页的标题 */
+.emphnext {
+	margin-bottom: 70px;
+	margin-top: 10px;
+}
 
+/* 首页内容的显示 */
+.item {
+	border-bottom: dotted black thin;
+	margin-bottom: 20px;
+}
+.content {
+	line-height: 2em;
+	font-size: 0.8em;
+	overflow:hidden;
+	text-overflow:ellipsis; 
+	height: 350px; 
+}
+.readmore{
+	font-family: "Comic Sans",Courier,Monospace;
+	font-size: 0.9em;
+	text-align: right;
+}
+.preadmore{
+	text-align: right;
+}
 
 
