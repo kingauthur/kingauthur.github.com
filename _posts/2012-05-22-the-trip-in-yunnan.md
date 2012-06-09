@@ -3,7 +3,7 @@ layout: post
 title: "清明，云南之行(一)"
 description: "终于，在清明的时候踏上了彩云之南，短短的一个多星期，这个地方就带给了我太多的惊喜和意外，如果非要让我去形容这个地方有多美的话，那我会说，我会马上再去一次！"
 category: 
-tags: [a,b]
+tags: [旅行]
 ---
 {% include JB/setup %}
 
