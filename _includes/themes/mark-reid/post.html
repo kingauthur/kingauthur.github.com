@@ -1,12 +1,27 @@
 <div id="page">
 	
-  <h1 class="emphnext">{{ page.title }}</h1>
-  <ul class="tag_box inline">
+  <h1 class="headline"><a id="top">{{ page.title }}</a></h1>
+  <!--ul class="tag_box inline">
   {% assign tags_list = page.tags %}
   {% include JB/tags_list %}
-  </ul>
+  </ul-->
+  <blockquote>
+  	{{ page.description }}
+  </blockquote>
 
   {{ content }}
+  
+<!-- JiaThis Button BEGIN -->
+<div id="ckepop">
+<a class="jiathis_button_qzone"></a>
+<a class="jiathis_button_tsina"></a>
+<a class="jiathis_button_tqq"></a>
+<a class="jiathis_button_renren"></a>
+<a class="jiathis_button_googleplus"></a>
+<a class="jiathis_button_douban"></a>
+<a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank"></a>
+</div>
+<!-- JiaThis Button END -->
 
   <address class="signature">
     <a class="author" href="{{ HOME_PATH }}">{{ site.author.name }}</a> 
@@ -16,13 +31,27 @@
   
   <div class="prev-next">
   {% if page.next %}
-    <a href="{{ page.next.url }}" class="next" title="{{ page.next.title }}">Next Post &rarr;</a>
+    <a href="{{ page.next.url }}" class="next" title="{{ page.next.title }}">下一篇 &rarr;</a>
   {% endif %}
   {% if page.previous %}
-    <a href="{{ page.previous.url }}" class="prev" title="{{ page.previous.title }}">&larr; Earlier Post</a>
+    <a href="{{ page.previous.url }}" class="prev" title="{{ page.previous.title }}">&larr; 上一篇</a>
   {% endif %}
   </div>
   
 </div><!-- End Page -->
+
+<!-- GPS -->
+<div id="gps">
+	<a href="#top"><img alt="回顶部" title="回顶部" src="/assets/custom/photos/arrow.gif" /></a>
+</div>
+
+<!-- 这里是JiaThis的js,放在这里是为了提高页面加载速度 -->
+<script type="text/javascript" >
+var jiathis_config={
+	summary:"",
+	hideMore:true
+}
+</script>
+<script type="text/javascript" src="http://v2.jiathis.com/code/jia.js" charset="utf-8"></script>
 
 {% include JB/comments %}

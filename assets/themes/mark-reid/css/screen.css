@@ -510,6 +510,8 @@ img.maruku-png { }
 /* .prev-next */
 .prev-next {
 	position:relative;
+	font-family: Courier，Courier New，Andale Mono，Monospace;
+	font-weight:border;
 }
 .prev-next .next{ 
 	float:right;
@@ -517,6 +519,7 @@ img.maruku-png { }
 
 /* tag_box ======================================================== */
 .tag_box {
+	text-align: center
 	list-style:none;
 	margin:0;
 	padding:5px 0 ;

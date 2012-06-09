@@ -3,7 +3,7 @@ layout: post
 title: "清明，云南之行(一)"
 description: "终于，在清明的时候踏上了彩云之南，短短的一个多星期，这个地方就带给了我太多的惊喜和意外，如果非要让我去形容这个地方有多美的话，那我会说，我会马上再去一次！"
 category: 
-tags: []
+tags: [旅行,云南]
 ---
 {% include JB/setup %}
 
@@ -79,14 +79,14 @@ tags: []
 	第一天宣告结束，竟然不小心扯了三千字，好吧，夙决定把这次右击分拆成几篇，所以，未完待续，后面精彩多了。
 	
 
-[1]: http://fmn.rrimg.com/fmn062/20120524/2305/large_twLA_7f8000001c72118e.jpg "海埂公园"
-[2]: http://fmn.rrfmn.com/fmn058/20120524/2305/large_LO7E_3cd90000044f125c.jpg "吉他小哥"
-[3]: http://fmn.rrimg.com/fmn057/20120524/2305/large_nxLG_771a00000da7118f.jpg "滇池"
-[4]: http://fmn.rrimg.com/fmn057/20120524/2305/large_MOJf_34fe000004d6118d.jpg "龙门"
-[5]: http://fmn.rrimg.com/fmn063/20120524/2305/large_uxRX_60b2000010d21191.jpg "龙门"
-[6]: http://fmn.rrimg.com/fmn060/20120524/2305/large_d9Xv_798b0000081b118f.jpg "西山"
-[7]: http://fmn.rrimg.com/fmn062/20120524/2305/large_AxQE_4482000012bd125d.jpg "西山"
-[8]: http://fmn.rrimg.com/fmn060/20120524/2305/large_CwVt_67dc00000fb7125b.jpg "西山"
+[1]: http://fmn.rrimg.com/fmn057/20120610/0005/original_7t7H_7e3200000622118f.jpg "海埂公园"
+[2]: http://fmn.rrimg.com/fmn061/20120609/2345/original_oeQF_58c9000010751191.jpg "吉他小哥"
+[3]: http://fmn.rrimg.com/fmn064/20120609/2345/original_Vn1A_0d8e0000051d1190.jpg "滇池"
+[4]: http://fmn.rrimg.com/fmn061/20120609/2350/original_aXL5_50230000058c125b.jpg "龙门"
+[5]: http://fmn.rrimg.com/fmn059/20120609/2350/original_TJ4A_0c7700000179125d.jpg "龙门"
+[6]: http://fmn.rrimg.com/fmn065/20120609/2355/original_yLJv_11a7000008ce118e.jpg "西山"
+[7]: http://fmn.rrfmn.com/fmn058/20120609/2355/original_tUmW_317300000d9e118d.jpg "西山"
+[8]: http://fmn.rrimg.com/fmn061/20120609/2355/original_JAJT_36d9000000c8118d.jpg "西山"
 	
 
 	

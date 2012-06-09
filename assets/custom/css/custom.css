@@ -52,13 +52,26 @@
 	text-overflow:ellipsis; 
 	height: 350px; 
 }
+/* readmore连接的样式*/
 .readmore{
 	font-family: "Comic Sans",Courier,Monospace;
 	font-size: 0.9em;
 	text-align: right;
 }
+/* readmore的上一个父块标签，使readmore右对齐*/
 .preadmore{
 	text-align: right;
+}
+/** 内容页的标题 */
+.headline{
+	}
+
+/* 导航 */
+#gps{
+	position:fixed;
+	right: 100px;
+	bottom: 10px;
+	
 }
 
 
