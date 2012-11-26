@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
@@ -14,6 +14,9 @@ name: Kingauthur's Blog
 description: Less is more,simple is elegance
 url: http://kingauthur.info
 
+# indextank settings
+# indextank_index: my_index
+# indextank_api_url: http://:myapikey@myapi.api.indextank.com
 
 title : Kingauthur's Blog
 tagline: just test
@@ -32,7 +35,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.com
+production_url : http://kingauthur.info
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

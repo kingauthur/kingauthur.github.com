@@ -8,7 +8,7 @@ description: ""
 <div id="content">
     <article>
       {% for post in site.posts %}
-         {% if post.category == 'travel' %}
+         {% if post.category == 'life' %}
 	        <section class="life">
 		          <h2><a href="{{ BASE_PATH }}{{ post.url }}" class="title">{{ post.title }}</a></h2>
 		          <small class="meta">{{ post.date | date: "%m - %d - %Y" }}</small>
