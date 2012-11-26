@@ -9,7 +9,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 爱琴海的水手
+# set for rss feed
+name: Kingauthur's Blog
+description: Less is more,simple is elegance
+url: http://kingauthur.info
+
+
+title : Kingauthur's Blog
 tagline: just test
 author : 	
   name : kingauthur
