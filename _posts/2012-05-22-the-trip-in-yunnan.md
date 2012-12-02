@@ -80,14 +80,14 @@ tags: [旅行, 云南]
 	第一天宣告结束，竟然不小心扯了三千字，好吧，夙决定把这次右击分拆成几篇，所以，未完待续，后面精彩多了。
 	
 
-[1]: http://fmn.rrimg.com/fmn057/20120610/0005/original_7t7H_7e3200000622118f.jpg "海埂公园"
-[2]: http://fmn.rrimg.com/fmn061/20120609/2345/original_oeQF_58c9000010751191.jpg "吉他小哥"
-[3]: http://fmn.rrimg.com/fmn064/20120609/2345/original_Vn1A_0d8e0000051d1190.jpg "滇池"
-[4]: http://fmn.rrimg.com/fmn061/20120609/2350/original_aXL5_50230000058c125b.jpg "龙门"
-[5]: http://fmn.rrimg.com/fmn059/20120609/2350/original_TJ4A_0c7700000179125d.jpg "龙门"
-[6]: http://fmn.rrimg.com/fmn065/20120609/2355/original_yLJv_11a7000008ce118e.jpg "西山"
-[7]: http://fmn.rrfmn.com/fmn058/20120609/2355/original_tUmW_317300000d9e118d.jpg "西山"
-[8]: http://fmn.rrimg.com/fmn061/20120609/2355/original_JAJT_36d9000000c8118d.jpg "西山"
+[1]: http://pic.yupoo.com/kingauthur/CsA7E07M/medish.jpg "海埂公园"
+[2]: http://pic.yupoo.com/kingauthur/CsA7Eh1K/medish.jpg "吉他小哥"
+[3]: http://pic.yupoo.com/kingauthur/CsAa41c4/medish.jpg "滇池"
+[4]: hhttp://pic.yupoo.com/kingauthur/CsAa4q7u/medish.jpg "龙门"
+[5]: http://pic.yupoo.com/kingauthur/CsAa4qE2/medish.jpg "龙门"
+[6]: http://pic.yupoo.com/kingauthur/CsAa4Cwf/medish.jpg "西山"
+[7]: http://pic.yupoo.com/kingauthur/CsAa5mBh/medish.jpg "西山"
+[8]: http://pic.yupoo.com/kingauthur/CsAa5qY4/medish.jpg "西山"
 	
 
 	
