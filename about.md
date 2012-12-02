@@ -1,7 +1,8 @@
 ---
 layout: about
-title: "关于我"
-description: ""
+title: "池逸欣的个人简介"
+description: "池逸欣的个人简介"
+keywords: "池逸欣，简介，独白，honey绿茶，kingauthur218"
 ---
 {% include JB/setup %}
 

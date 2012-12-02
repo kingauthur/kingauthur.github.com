@@ -1,7 +1,8 @@
 ---
 layout: index
-title: Less is more，simple is elegance
-tagline: Supporting tagline
+title: "池逸欣(kingauthur)的博客首页"
+description: "池逸欣(kingauthur)的博客首页，这里有关于互联网的分析，技术的讨论，生活的点点滴滴，旅行的意义"
+keywords: "池逸欣，博客，kingauthur，技术贴，互联网，旅行的意义，生活"
 ---
 {% include JB/setup %}
 

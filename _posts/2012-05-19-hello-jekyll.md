@@ -6,6 +6,7 @@ description: "本文介绍基于jekyll+markdown+git+github快速搭建blog的入
 <br/>
 在学习git的时候，偶然间接触到了[jekyll],继而逐渐深入了解后，发现，git+[github]+jekyll+[markdown]，这不就是我想要的写博客工具么，轻量、简洁、便捷，故当即决定用这个套装搭建新的Blog。以前的文章决定不再迁过来了，反正也很久没写了，重头再来过。  
 "
+keywords: "jekyll,markdown,git,github,blog,博客"
 category: tech
 tags: [jekyll, blog]
 ---
