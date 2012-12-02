@@ -25,15 +25,15 @@ input[type^="radio"] {border:none; background:none; width:auto;}
 #logo a {color:#ddd;}
 #header h2 {font-size:14px;}
 #toolbar {height:24px; font-size:12px;}
-#searchform {background:#fafafa; border:1px solid #ccc; border-radius:15px; box-shadow:inset 1px 1px 5px rgba(100,100,100,.3); padding:3px 5px; height:16px; float:right;}
-#searchform label {display:none;}
-#searchform input {border:none; background:none; box-shadow:none; width:150px; height:16px; line-height:16px; vertical-align:top;}
-#searchform button {background:url(/assets/custom/photos/search.png) no-repeat; width:16px; height:16px; text-indent:-999px; vertical-align:top; border:none; cursor:pointer; margin-left:-5px; font-size:0;}
-#searchform button:hover {background:url(/assets/custom/photos/ssearch_hover.png) no-repeat;}
+#searchFrom {background:#fafafa; border:1px solid #ccc; border-radius:15px; box-shadow:inset 1px 1px 5px rgba(100,100,100,.3); padding:3px 5px; height:16px; float:right;}
+#searchFrom label {display:none;}
+#searchFrom input {border:none; background:none; box-shadow:none; width:150px; height:16px; line-height:16px; vertical-align:top;}
+#searchFrom button {background:url(/assets/custom/photos/search.png) no-repeat; width:16px; height:16px; text-indent:-999px; vertical-align:top; border:none; cursor:pointer; margin-left:-5px; font-size:0;}
+#searchFrom button:hover {background:url(/assets/custom/photos/ssearch_hover.png) no-repeat;}
 
 #rss {float:right; margin-left:8px; margin-top:4px;}
 #rss a {background:url(/assets/custom/photos/rss.png) no-repeat; width:16px; height:16px; overflow:hidden;display:block; text-indent:-999px;}
-#menu {float:left; font-size:14px; line-height:30px; height:22px; overflow:hidden;}
+#menu {float:left; font-size:15px; line-height:30px; height:22px; overflow:hidden;}
 #menu li {float:left; margin-right:10px;}
 #menu a {display:block; text-decoration:none; color:#999;}
 #menu a:hover {color:#5f767f;}

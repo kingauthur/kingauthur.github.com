@@ -32,3 +32,9 @@ description: ""
       {% endfor %}
     </article>
 </div>
+
+
+
+<script type="text/javascript">
+	showCurrentItem(document.getElementById("menu-item-travel"));
+</script>

@@ -18,12 +18,21 @@
   <div>
     {% if page.categories[0] == 'travel' %}
       <span class="category_box"><a href="/travel.html">走走停停</a></span>
+      <script type="text/javascript">
+        showCurrentItem(document.getElementById("menu-item-travel"));
+      </script>
     {% endif %}
     {% if page.categories[0] == 'tech' %}
       <span class="category_box"><a href="/tech.html">技术贴</a></span>
+      <script type="text/javascript">
+        showCurrentItem(document.getElementById("menu-item-tech"));
+      </script>
     {% endif %}
     {% if page.categories[0] == 'life' %}
       <span class="category_box"><a href="/life.html">生活志</a></span>
+      <script type="text/javascript">
+        showCurrentItem(document.getElementById("menu-item-life"));
+      </script>
     {% endif %}
   </div>
 

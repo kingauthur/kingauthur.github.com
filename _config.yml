@@ -14,9 +14,8 @@ name: Kingauthur's Blog
 description: Less is more,simple is elegance
 url: http://kingauthur.info
 
-# indextank settings
-# indextank_index: my_index
-# indextank_api_url: http://:myapikey@myapi.api.indextank.com
+# set for full text search
+# searchindex: yes
 
 title : Kingauthur's Blog
 tagline: just test

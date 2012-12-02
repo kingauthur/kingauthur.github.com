@@ -35,5 +35,9 @@ tagline: Supporting tagline
     </article>
 </div>
 
+<script type="text/javascript">
+  showCurrentItem(document.getElementById("menu-item-index"));
+</script>
+
 
 
