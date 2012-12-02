@@ -1,6 +1,6 @@
 ---
 layout: about
-title: "池逸欣的个人简介"
+title: "About Kingauthur"
 description: "池逸欣的个人简介"
 keywords: "池逸欣，简介，独白，honey绿茶，kingauthur218"
 ---

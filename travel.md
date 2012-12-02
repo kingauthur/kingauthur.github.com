@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "池逸欣的走走停停"
+title: "Kingauthur's 走走停停"
 description: "池逸欣的走走停停，用来记录和分享旅行途中的一切，包括看到的，听到的，遇到的，想到的"
 keywords: "池逸欣，走走停停，旅行"
 ---

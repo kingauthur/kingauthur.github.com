@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "池逸欣的技术贴"
+title: "Kingauthur's 技术贴"
 description: "池逸欣的技术贴，用来记录和分享遇到的新鲜好玩的技术，或者互联网产品，或者工作上遇到的技术难题"
 keywords: "池逸欣，技术贴，互联网"
 ---
