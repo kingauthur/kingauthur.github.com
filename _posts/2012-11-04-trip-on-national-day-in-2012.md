@@ -10,7 +10,7 @@ description: "这次出门主要分为两部分，前半部分试成都、康定
 一直，在路上。"
 img: http://ww4.sinaimg.cn/mw690/5db85c81gw1dy30e56d2uj.jpg
 category: travel
-tags: [旅行,四川,云南]
+tags: [旅行, 四川, 云南]
 ---
 {% include JB/setup %}
 
