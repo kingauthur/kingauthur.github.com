@@ -17,12 +17,13 @@ input {vertical-align:middle;}
 input[type^="radio"] {border:none; background:none; width:auto;}
 ::selection {color:#fff; background:#444; text-shadow:none;}
 
-#wrap,#footer_box {background:#fcfbf7 url(/assets/custom/photos/mainbg.jpg) repeat; border-radius:8px; box-shadow:0 0 10px rgba(0,0,0,1),0 4px 0 rgba(255,255,255,.8),0 5px 0 rgba(100,100,100,.4),0 8px 0 rgba(255,255,255,0.4),inset 0 0 1px rgba(255,255,255,1); width:800px; margin:30px auto; padding:40px 50px;}
+#wrap,#footer_box {background:#fcfbf7 url(/assets/custom/photos/mainbg.jpg) repeat; border-radius:8px; box-shadow:0 0 10px rgba(0,0,0,1),0 4px 0 rgba(255,255,255,.8),0 5px 0 rgba(100,100,100,.4),0 8px 0 rgba(255,255,255,0.4),inset 0 0 1px rgba(255,255,255,1); width:800px; margin:30px auto; padding:40px 50px;margin-top: 10px;}
 #content {overflow:hidden; color:#555; text-shadow:1px 1px #fff; margin-top:30px; clear:both;}
 #desc {overflow:hidden; color:#555; text-shadow:1px 1px #fff; margin-top:30px; clear:both;text-overflow:ellipsis;height: 350px;}
-#header {text-align:center; color:#5d6673;}
-#logo {margin:20px auto 10px;}
+#header {color:#5d6673;text-align: center;width: 800px;margin:10px auto;}
+#logo {text-align: left;}
 #logo a {color:#ddd;}
+#sublogo {text-align: left;}
 #header h2 {font-size:14px;}
 #toolbar {height:24px; font-size:12px;}
 #searchFrom {background:#fafafa; border:1px solid #ccc; border-radius:15px; box-shadow:inset 1px 1px 5px rgba(100,100,100,.3); padding:3px 5px; height:16px; float:right;}
@@ -219,3 +220,13 @@ pre > code {
 #pig404{
 	text-align: center;
 }
+/* 头像 */
+#avater  {
+	float: left;
+	margin-left: 230px;
+}
+
+
+
+
+
