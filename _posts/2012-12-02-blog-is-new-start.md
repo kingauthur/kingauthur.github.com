@@ -14,6 +14,7 @@ description: "终于下定决心，宅了几个周末的时间，把自己的Blo
 <br/>
 <br/>
 2012年的最后一个月，加油。"
+keywords: "推倒，重来"
 category: life
 tags: [折腾]
 ---

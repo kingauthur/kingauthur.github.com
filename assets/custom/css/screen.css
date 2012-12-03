@@ -8,7 +8,7 @@ img {border:none;}
 a img:hover {background:none; border:none;}
 a {color:#07b; text-decoration:none;}
 a:hover {text-decoration:underline;}
-ol,ul {list-style:none;}
+#menu ol,ul {list-style:none;}
 p {margin-bottom:20px;}
 input,textarea,button {outline:none;}
 input[type^="text"],input[type^="password"],textarea {box-shadow:inset 2px 3px 5px #eee; border:1px solid #bbb; background:#fafafa;}
@@ -132,6 +132,7 @@ blockquote p:last-child {margin-bottom:0;}
 	padding-left: 20px;
 	font-weight:bold;
 }
+
 /* @group Code */
 pre {
 	margin: 1em 0 1.5em 0;
@@ -214,7 +215,7 @@ pre > code {
 #about {
 	width: 400px;
 	float: right;
-	margin-top: 70px;
+	margin-top: 30px;
 }
 /* 404图片 */
 #pig404{
@@ -223,7 +224,7 @@ pre > code {
 /* 头像 */
 #avater  {
 	float: left;
-	margin-left: 230px;
+	margin-left: 200px;
 }
 
 

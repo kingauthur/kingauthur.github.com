@@ -7,7 +7,7 @@ keywords: "池逸欣，走走停停，旅行"
 {% include JB/setup %}
 
 <div id="content">
-    <article>
+    <article idd="post_list">
       {% for post in site.posts %}
          {% if post.category == 'travel' %}
 	        <section class="post">

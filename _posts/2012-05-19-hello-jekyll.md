@@ -68,7 +68,7 @@ tags: [jekyll, blog]
 		$ git push origin master
 	这样就可以通过*USERNAME*.github.com访问了。
 
-3. 其他相关的资料。  
+ 3. 其他相关的资料。 
 *   如果你选择托管在github上，但是想绑定自己的域名，那么请参考[GitHub Pages][9]。
 *   如果你想部署到自己的VPS,也很方便，可以参考[Deployment][10]。
 *   如果你想参考其他利用jekyll搭建的网站，可以参考[Site List][11]。

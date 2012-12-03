@@ -7,7 +7,7 @@ keywords: "池逸欣，技术贴，互联网"
 {% include JB/setup %}
 
 <div id="content">
-    <article>
+    <article id="post_list">
       {% for post in site.posts %}
          {% if post.category == 'tech' %}
 	        <section class="post">

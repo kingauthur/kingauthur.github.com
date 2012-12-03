@@ -7,10 +7,10 @@ keywords: "池逸欣，生活志，生活点点滴滴"
 {% include JB/setup %}
 
 <div id="content">
-    <article>
+    <article id="post_list">
       {% for post in site.posts %}
          {% if post.category == 'life' %}
-	        <section class="life">
+	        <section class="post">
 		          <h2><a href="{{ BASE_PATH }}{{ post.url }}" class="title">{{ post.title }}</a></h2>
 		          <small class="meta">{{ post.date | date: "%m - %d - %Y" }}</small>
 		        <div class="content">

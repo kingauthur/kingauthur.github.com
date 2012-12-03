@@ -7,7 +7,7 @@ keywords: "池逸欣，简介，独白，honey绿茶，kingauthur218"
 {% include JB/setup %}
 
 <div id="content">
-	<div id="about">
+	<div id="about" class="post">
 
 		<p>真名池逸欣，网名无数，最常用的是kingauthur或者爱琴海的水手。</p>
 
