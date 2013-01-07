@@ -21,7 +21,7 @@ keywords: "池逸欣，简介，独白，honey绿茶，kingauthur218"
 	</div>
 
 	<p id="icon">
-		<img src="/assets/custom/photos/body1_small.gif"/>
+		<img src="/assets/custom/photos/body1_small.png"/>
 	</p>
 
 </div>
