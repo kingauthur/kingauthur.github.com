@@ -4,6 +4,8 @@ permalink: /:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
+# 这个解析引擎更友好的支持中文
+markdown: rdiscount
 pygments: true
 
 # Themes are encouraged to use these universal variables 
