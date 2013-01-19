@@ -17,7 +17,7 @@ keywords: "池逸欣，简介，独白，honey绿茶，kingauthur218"
 
 		<p>联系方式：</p>
 		<p>Gtalk: kingauthur218 [a] gmail.com</p>
-		<p>微薄： <strong><a href='http://weibo.com/kingauthur'>honey绿茶</a></strong></p>
+		<p>微薄： <strong><a href='http://weibo.com/kingauthur'>喝果汁de吸血鬼</a></strong></p>
 	</div>
 
 	<p id="icon">
