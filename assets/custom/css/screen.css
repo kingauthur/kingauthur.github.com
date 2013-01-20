@@ -227,7 +227,9 @@ pre > code {
 	margin-left: 200px;
 }
 
-
+#pagination{
+	text-align: right;
+}
 
 
 

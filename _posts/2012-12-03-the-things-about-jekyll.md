@@ -1,13 +1,7 @@
 ---
 layout: post
 title: "为Jekyll添加静态搜索"
-description: "之前讲过了如何用Jekyll搭建自己的Blog，不过作为一个静态的Blog系统，相比WordPress那些成熟的Blog系统，功能还薄弱了点，更别提其他花里胡哨的插件了。在这里，最缺的我觉得应该就是搜索功能了，没有搜索，就想没有了门，一个好的搜索，设置连目录都可以不要。  
-</br>
-</br>
-在网上找了好久好久，翻了很多，大多都是利用plugin+js的方式，总感觉不是很喜欢。<a href='http://www.google.com/cse/manage/all'>Google Custom Search</a> 提供了另外一种方式，这个操作起来很简单，搜索功能也很强大，不过总给人感觉太重了，而且对于不稳定的网络，你懂的。  
-</br>
-</br>
-于是找来找去，发现用<a href='http://jquery.com'>JQuery</a>搜索静态文本的API来解决，是最简单，也是最轻量级的方式。"
+description: "之前讲过了如何用Jekyll搭建自己的Blog，不过作为一个静态的Blog系统，相比WordPress那些成熟的Blog系统，功能还薄弱了点，更别提其他花里胡哨的插件了。在这里，最缺的我觉得应该就是搜索功能了，没有搜索，就想没有了门，一个好的搜索，设置连目录都可以不要。"
 category: tech
 keywords: "jekyll,blog,博客,搜索，search"
 tags: [jekyll, blog]

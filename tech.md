@@ -8,17 +8,12 @@ keywords: "池逸欣，技术贴，互联网"
 
 <div id="content">
     <article id="post_list">
-      {% for post in site.posts %}
-         {% if post.category == 'tech' %}
+      {% for post in site.categories.tech %}
 	        <section class="post">
 		          <h2><a href="{{ BASE_PATH }}{{ post.url }}" class="title">{{ post.title }}</a></h2>
 		          <small class="meta">{{ post.date | date: "%m - %d - %Y" }}</small>
 		        <div class="content">
-		         {{ post.description }}
-        
-		        {% if post.img != null %}
-		            <img src="{{ post.img }}">
-		        {% endif %}		        
+					{{ post.content | truncatehtml: 269 }}	        
     			</div>
 		    	<!-- 标签 -->
 		        <ul class="tag_box inline">
@@ -29,9 +24,13 @@ keywords: "池逸欣，技术贴，互联网"
 		      	<!-- readmore按钮 -->
 		        <p class="preadmore"><a href="{{ BASE_PATH }}{{ post.url }}" alt="Read More" class="readmore"><span>&#10149;</span>阅读全文</a></p>
         	</section>
-	     {% endif %}
       {% endfor %}
     </article>
+</div>
+
+<!--分页器-->
+<div id="pagination">
+  第1页/共1页 前一页 1 后一页
 </div>
 
 <script type="text/javascript">

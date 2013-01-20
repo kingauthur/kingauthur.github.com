@@ -1,11 +1,7 @@
 ---
 layout: post
 title: "Hello jekyll"
-description: "本文介绍基于jekyll+markdown+git+github快速搭建blog的入门方法，以及自己对此的一些认识和相关资料的官方文档。
-<br/>
-<br/>
-在学习git的时候，偶然间接触到了[jekyll],继而逐渐深入了解后，发现，git+[github]+jekyll+[markdown]，这不就是我想要的写博客工具么，轻量、简洁、便捷，故当即决定用这个套装搭建新的Blog。以前的文章决定不再迁过来了，反正也很久没写了，重头再来过。  
-"
+description: "本文介绍基于jekyll+markdown+git+github快速搭建blog的入门方法，以及自己对此的一些认识和相关资料的官方文档。"
 keywords: "jekyll,markdown,git,github,blog,博客"
 category: tech
 tags: [jekyll, blog]
@@ -14,7 +10,8 @@ tags: [jekyll, blog]
 
 在学习git的时候，偶然间接触到了[jekyll][1],继而逐渐深入了解后，发现，git+[github][2]+jekyll+[markdown][3]，这不就是我想要的写博客工具么，轻量、简洁、便捷，故当即决定用这个套装搭建新的Blog。以前的文章决定不再迁过来了，反正也很久没写了，重头再来过。  
 
-言归正传，这几天初识了下git+[github][2]+jekyll+[markdown][3]这个套装，个人比较喜欢这么几点：
+言归正传，这几天初识了下git+[github][2]+jekyll+[markdown][3]这个套装，个人比较喜欢这么几点： 
+
 1. 轻，真的很轻。每个页面都是静态的`html`，所以根本就不需要应用服务器，web服务器就搞定了，当然，数据库也省了。
 2. 方便。直接托管在github上，再绑定下域名的指向，如果你买VPS只为搭blog的话，那这笔小费也可以省了。顺便，因为git的关系，还能做到离线写文章。
 3. 清晰，写文章清晰。当然，这是和markdown有关，markdown易写的语法以及完全使用自己本地文本编译器的方式，让在blog系统上写文章重新变回了一种享受。
