@@ -13,7 +13,7 @@ keywords: "池逸欣，生活志，生活点点滴滴"
 		          <h2><a href="{{ BASE_PATH }}{{ post.url }}" class="title">{{ post.title }}</a></h2>
 		          <small class="meta">{{ post.date | date: "%m - %d - %Y" }}</small>
 		        <div class="content">
-					 {{ post.content | truncatehtml: 269 }}
+					 {{ post.content | split:'<!--break-->' | first }}
 		        </div>
 		    	<!-- 标签 -->
 		        <ul class="tag_box inline">

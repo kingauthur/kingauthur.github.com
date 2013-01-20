@@ -12,7 +12,11 @@ tags: [jekyll, blog]
 
 在网上找了好久好久，翻了很多，大多都是利用plugin+js的方式，总感觉不是很喜欢。[Google Custom Search](http://www.google.com/cse/manage/all) 提供了另外一种方式，这个操作起来很简单，搜索功能也很强大，不过总给人感觉太重了，而且对于不稳定的网络，你懂的。  
 
-于是找来找去，发现用[JQuery](http://jquery.com)搜索静态文本的API来解决，是最简单，也是最轻量级的方式。下面我来说下方法：  
+于是找来找去，发现用[JQuery](http://jquery.com)搜索静态文本的API来解决，是最简单，也是最轻量级的方式。  
+
+<!--break-->
+
+下面我来说下方法：  
 
 
 ####一. 首先，需要准备工具，下几个[JQuery](http://jquery.com)文件，包括： 

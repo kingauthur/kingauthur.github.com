@@ -17,6 +17,8 @@ tags: [旅行, 四川, 云南]
 
 ![在路上](http://ww4.sinaimg.cn/mw690/5db85c81gw1dy30e56d2uj.jpg)
 
+<!--break-->
+
 ---
       我是华丽丽的分割线  
 
