@@ -3,7 +3,7 @@ layout: post
 title: "为Jekyll增加不完美的分页和文章摘要"
 description: ""
 category: tech
-tags: [jekyll,　blog]
+tags: [jekyll, blog]
 keywords: "jekyll,分页,paginator,摘要,excerpt" 
 ---
 {% include JB/setup %}
